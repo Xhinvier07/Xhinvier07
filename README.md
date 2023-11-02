@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on some **random stuff**
 
-- 🌱 I’m currently learning **JAVA, Swift, SQL**
+- 🌱 I’m currently learning **PHP, Swift, SQL**
 
 - 💬 Ask me about **VB.Net, HTML, C++, Piano**
 
 - 📫 How to reach me **jansenmoral@gmail.com**
 
-- ⚡ Fun fact **IDK**
+- ⚡ Fun fact **I hate Data Structures & Algorithms**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
