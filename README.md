@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on some **random stuff**
 
-- 🌱 I’m currently learning **PHP, Swift, SQL**
+- 🌱 I’m currently learning **PHP, C#, Python**
 
 - 💬 Ask me about **VB.Net, HTML, C++, Piano**
 
