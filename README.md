@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/janxhin" target="blank"><img src="https://img.shields.io/twitter/follow/janxhin?logo=twitter&style=for-the-badge" alt="janxhin" /></a> </p>
 
-- 🔭 I’m currently working on some **random stuff**
+- 🔭 I’m currently working on my **Thesis**
 
-- 🌱 I’m currently learning **PHP, C#, Python**
+- 🌱 I’m currently learning **CNN, Python, Electron**
 
-- 💬 Ask me about **VB.Net, HTML, C++, Piano**
+- 💬 Ask me about **Python, HTML, C++, Piano**
 
 - 📫 How to reach me **jansenmoral@gmail.com**
 
