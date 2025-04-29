@@ -298,11 +298,11 @@
         <br>Premiere
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ae" alt="After Effects" width="65" height="65">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Adobe_Audition_CC_icon_%282020%29.svg/512px-Adobe_Audition_CC_icon_%282020%29.svg.png" alt="Audition" width="65" height="65">
         <br>Audition
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ai" alt="Illustrator" width="65" height="65">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/512px-Adobe_Photoshop_Lightroom_CC_logo.svg.png" alt="Lightroom" width="65" height="65">
         <br>Lightroom
       </td>
       <td align="center" width="96">
