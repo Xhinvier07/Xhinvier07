@@ -8,7 +8,7 @@
   # ✨ Xhinvier ✨
   
   <p align="center">
-    <em>Software Engineer | AI/ML Enthusiast | Frontend Developer</em>
+    <em>Software Engineer | AI/ML Explorer | Frontend Developer</em>
   </p>
   
   [![Visitors](https://komarev.com/ghpvc/?username=xhinvier07&label=Explorers&color=blueviolet&style=for-the-badge)](https://github.com/xhinvier07)
