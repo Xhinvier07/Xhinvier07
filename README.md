@@ -114,6 +114,10 @@
         <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65">
         <br>Java
       </td>
+        <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="Swift" width="65" height="65">
+        <br>Swift
+      </td>
     </tr>
     <tr>
       <td align="center" width="96">
