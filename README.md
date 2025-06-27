@@ -129,16 +129,8 @@
         <br>PHP
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="65" height="65">
-        <br>Swift
-      </td>
-      <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="VB.NET" width="65" height="65">
         <br>C#
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65">
-        <br>GitHub
       </td>
     </tr>
   </table>
