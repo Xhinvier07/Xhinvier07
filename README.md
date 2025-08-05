@@ -27,7 +27,7 @@
     <td>
       <h3>💫 About Me</h3>
       <ul>
-        <li>🔭 Currently working on my Undergraduate Thesis</li>
+        <li>🔭 Currently developing portfolio projects</li>
         <li>🌱 Exploring the world of AI and creative applications</li>
         <li>🎹 Piano player in my free time</li>
         <li>📚 Lifelong learner of new technologies</li>
