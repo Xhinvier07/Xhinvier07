@@ -11,7 +11,7 @@
     <em>Software Engineer | AI/ML Explorer | Frontend Developer</em>
   </p>
   
-  [![Visitors](https://komarev.com/ghpvc/?username=xhinvier07&label=Explorers&color=blueviolet&style=for-the-badge)](https://github.com/xhinvier07)
+  [![Visitors](https://komarev.com/ghpvc/?username=xhinvier07&label=Visitors&color=blueviolet&style=for-the-badge)](https://github.com/xhinvier07)
   [![Twitter](https://img.shields.io/twitter/follow/janxhin?logo=twitter&style=for-the-badge&color=3da37a&labelColor=1a1b27)](https://twitter.com/janxhin)
   
 </div>
