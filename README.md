@@ -78,7 +78,7 @@
         <br>Electron
       </td>
       <td align="center" width="96">
-        <img src="https://vitejs.dev/logo-with-shadow.png" alt="Vite" width="65" height="65">
+        <img src="https://vite.dev/logo.svg" alt="Vite" width="65" height="65">
         <br>React Vite
       </td>
       <td align="center" width="96">
