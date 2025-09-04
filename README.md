@@ -89,8 +89,10 @@
         <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="65" height="65">
         <br>PyTorch
       </td>
-    </tr>
-  </table>
+      <td align="center" width="96">
+        <img src="https://techicons.dev/icons/streamlit" alt="Streamlit" width="65" height="65">
+        <br>Streamlit
+      </td>
 </div>
 
 <details>
