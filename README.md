@@ -90,7 +90,7 @@
         <br>PyTorch
       </td>
       <td align="center" width="96">
-        <img src="https://techicons.dev/icons/streamlit" alt="Streamlit" width="65" height="65">
+        <img src="https://raw.githubusercontent.com/rlew631/rlew631/b09a7af3f30f8b5a5428dbeb07b9021622018685/red_streamlit.svg" alt="Streamlit" width="65" height="65">
         <br>Streamlit
       </td>
 </div>
