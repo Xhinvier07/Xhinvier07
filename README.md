@@ -22,7 +22,7 @@
 <table align="center">
   <tr>
     <td>
-      <img align="right" src="profile3.gif" height="250" width="200" alt="profile animation" style="border: 3px solid #4d9fff; border-radius: 15px; box-shadow: 0 0 15px 5px rgba(77, 159, 255, 0.7);">
+      <img align="right" src="profile.gif" height="250" width="200" alt="profile animation" style="border: 3px solid #4d9fff; border-radius: 15px; box-shadow: 0 0 15px 5px rgba(77, 159, 255, 0.7);">
     </td>
     <td>
       <h3>💫 About Me</h3>
