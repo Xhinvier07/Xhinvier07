@@ -82,6 +82,10 @@
         <br>Vite
       </td>
       <td align="center" width="96">
+        <img src="https://brandlogos.net/wp-content/uploads/2025/05/google_icon_2025-logo_brandlogos.net_qm5ka-512x523.png" alt="Google API" width="65" height="65">
+        <br>Google API
+      </td>
+      <td align="center" width="96">
         <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text-1.png" alt="OpenCV" width="65" height="65">
         <br>OpenCV
       </td>
