@@ -79,7 +79,7 @@
       </td>
       <td align="center" width="96">
         <img src="https://vite.dev/logo.svg" alt="Vite" width="65" height="65">
-        <br>React Vite
+        <br>Vite
       </td>
       <td align="center" width="96">
         <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text-1.png" alt="OpenCV" width="65" height="65">
@@ -93,6 +93,8 @@
         <img src="https://raw.githubusercontent.com/rlew631/rlew631/b09a7af3f30f8b5a5428dbeb07b9021622018685/red_streamlit.svg" alt="Streamlit" width="65" height="65">
         <br>Streamlit
       </td>
+    </tr>
+  </table>
 </div>
 
 <details>
