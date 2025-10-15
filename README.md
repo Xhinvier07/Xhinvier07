@@ -13,7 +13,8 @@
   
   [![Visitors](https://komarev.com/ghpvc/?username=xhinvier07&label=Visitors&color=blue&style=for-the-badge)](https://github.com/xhinvier07)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge&color=3da37a&labelColor=1a1b27)](https://www.linkedin.com/in/xhinvier/)
-  
+  [![MyAnimeList](https://img.shields.io/badge/MyAnimeList-xhinvier-2d8bcf?logo=myanimelist&style=for-the-badge&labelColor=1a1b27)](https://myanimelist.net/profile/xhinvier)
+
 </div>
 
 <br>
