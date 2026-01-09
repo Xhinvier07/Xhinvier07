@@ -26,13 +26,12 @@
       <img align="right" src="profile.gif" height="250" width="200" alt="profile animation" style="border: 3px solid #4d9fff; border-radius: 15px; box-shadow: 0 0 15px 5px rgba(77, 159, 255, 0.7);">
     </td>
     <td>
-      <h3>💫 About Me</h3>
+    <h3>💫 About Me</h3>
       <ul>
-        <li>🔭 Currently developing portfolio projects</li>
-        <li>🌱 Exploring the world of AI and creative applications</li>
+        <li>💼 AI/ML Developer Intern at CGI Philippines</li>
+        <li>🌱 Exploring artificial intelligence and machine learning</li>
         <li>🎹 Piano player in my free time</li>
-        <li>📚 Lifelong learner of new technologies</li>
-        <li>👾 Anime enthusiast and gamer</li>
+        <li>🎨 Anime enthusiast</li>
         <li>📫 Reach me: <strong>jansenmoral@gmail.com</strong></li>
       </ul>
     </td>
