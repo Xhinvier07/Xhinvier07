@@ -28,7 +28,7 @@
     <td>
     <h3>💫 About Me</h3>
       <ul>
-        <li>💼 AI/ML Developer Intern at CGI Philippines</li>
+        <li>💼 Junior AI Solutions Engineer @ <a href="https://embiggenx.com/" target="_blank"><strong style="color: yellow;">Embiggen X</strong></a></li>
         <li>🌱 Exploring artificial intelligence and machine learning</li>
         <li>🎹 Piano player in my free time</li>
         <li>🎨 Anime enthusiast</li>
